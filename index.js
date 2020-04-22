@@ -23,5 +23,5 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  return makeInt(n.string)
+  return makeInt(n.String)
 }
