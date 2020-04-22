@@ -23,6 +23,6 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  return parseInt(n.String, 10)
+  return parseInt(n, 10)
 }
 
